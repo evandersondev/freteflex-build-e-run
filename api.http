@@ -1,0 +1,3 @@
+### Calculate
+
+GET http://localhost:8080/shipping/calculate?type=EXPRESS&distance=10&weight=3
